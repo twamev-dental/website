@@ -58,7 +58,7 @@ const Footer = () => {
                         <div className="footer-logo">
                             <img src={logo} alt="logo" />
                         </div>
-                        <p style = {{color: 'white'}}>Twamev Dental Clinic is a top-rated local practice for cosmetic, preventative, and restorative dentistry in Bihar </p>
+                        <p style = {{color: 'white'}}>Twamev Dental Clinic & Implant Centre is a trusted and patient-focused dental practice offering cosmetic, preventive, and restorative dentistry. Known for painless treatments and ethical care, we are widely recommended as one of the best dental clinics in Patna. </p>
 
                         <div className="social-logo">
                             <p>Follow us on</p>

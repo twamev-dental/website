@@ -13,10 +13,10 @@ const ServicesSection = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-6 col-sm-6">
-                        <SectionTitle title="Feel amazing about your oral health" subTitle="Services"/>
+                        <SectionTitle title="Advanced Dental Treatments at the Best Dental Clinic in Patna" subTitle="OUR DENTAL SERVICES IN Patna"/>
                     </div>
                     <div className="col-lg-6 col-sm-6">
-                        <p className='service-title-text'>Explore our comprehensive dental services, designed to keep your smile healthy and radiant. From preventive care to advanced treatments, we’ve got you covered.</p>
+                        <p className='service-title-text'>At Twamev Dental Clinic & Implant Centre, we offer comprehensive and painless dental services using modern technology. From preventive care to advanced procedures, our clinic is trusted by patients seeking the best dental treatment in Patna.</p>
                     </div>
                 </div>
 

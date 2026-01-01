@@ -25,9 +25,9 @@ const Appointment = () => {
                     <div className="col-lg-7 col-md-6">
                         <div className="appointment-form-area">
                             <SectionTitle 
-                            subTitle="BOOK APPOINTMENT"
-                            title="Care at Twamev Dental is a pleasure"
-                            description="Experience exceptional dental care with a personal touch at Twamev Dental Clinic, where your comfort and smile are our priorities."/>
+                            subTitle="BOOK DENTAL APPOINTMENT IN Patna"
+                            title="Experience Care at the Best Dental Clinic in Patna"
+                            description="Painless, ethical, and advanced dental care delivered with comfort and precision at one of the best dental clinics in Patna."/>
 
                             <ContactForm />
                         </div>

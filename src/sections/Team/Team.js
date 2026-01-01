@@ -46,7 +46,7 @@ const Team = () => {
             'img': imgFive,
             'name': 'Dr. Shadab Anwar',
             'degree': 'BDS, MDS',
-            'department': 'Pedodontist'
+            'department': 'Periodontist'
         },
         {
             'img': imgSeven,
@@ -63,14 +63,13 @@ const Team = () => {
                 <div className="row">
                     <div className="col-lg-7">
                         <SectionTitle 
-                            subTitle="Meet our Team"
-                            title="Get to know the Twamev
-                            Dental Team"
+                            subTitle="OUR DENTAL TEAM IN Patna"
+                            title="Meet the Expert Team at Twamev Dental Clinic"
                         />
                     </div>
 
                     <div className="col-lg-5">
-                        <p className='pt-5'>Passionate about dentistry and patient care, our team works to bring you the best in modern dental treatments.</p>
+                        <p className='pt-5'>Led by Dr. Aman Raj, we focus on patient comfort, clear communication, and long-lasting treatment outcomes, making us a trusted choice among patients seeking the best dentist in Patna.</p>
                     </div>
                 </div>
 

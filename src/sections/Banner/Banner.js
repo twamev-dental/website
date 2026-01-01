@@ -20,8 +20,14 @@ const Banner = () => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="banner-text" data-aos="fade-up" data-aos-duration="2000">
-                                    <h1>Entrust your smile to professionals</h1>
-                                    <p>At Twamev Dental Clinic, your smile is our priority. Experience advanced dental care with a gentle touch, because you deserve the best.</p>
+                                    <h1><b>Best Dental Clinic in Patna</b></h1>
+                                    <p/>
+                                    <p/>
+                                    <p/>
+                                    <p>At Twamev Dental Clinic & Implant Centre, we provide ethical, painless, and advanced dental treatments including RCT, dental implants, cosmetic dentistry, and complete oral care. Trusted by patients as one of the best dental clinics in Patna.</p>
+                                    <p/>
+                                    <p/>
+                                    <p>Led by Dr. Aman Raj, we specialize in preventive, cosmetic, restorative, and implant dentistry, ensuring healthy smiles for patients of all age groups</p>
 
                                     <div className="banner-bottom">
                                         <div className="theme-btn">

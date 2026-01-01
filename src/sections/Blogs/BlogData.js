@@ -19,6 +19,7 @@ const BlogData = [
         'description':'A bright, healthy smile is often considered one of the most important features of our appearance. ',
         'category': 'DENTAL'
     },
+    
     {
         'img': imgThree,
         'index': 3,

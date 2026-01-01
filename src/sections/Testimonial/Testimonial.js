@@ -84,11 +84,11 @@ const Testimonial = () => {
                     <div className="col-lg-6">
                         <SectionTitle 
                         subTitle="TESTIMONIAL"
-                        title="What people have said about us"
+                        title="Why Patients Trust Us as the Best Dental Clinic in Patna"
                         />
                     </div>
                     <div className="col-lg-6">
-                        <p className="pt-5">Discover how Twamev Dental Clinic has made a difference in the lives of our patients through exceptional care and expertise.</p>
+                        <p className="pt-5">Discover how Twamev Dental Clinic & Implant Centre has helped patients achieve healthy, pain-free smiles through advanced dental treatments and compassionate care. Our consistent patient satisfaction makes us one of the most recommended dental clinics in Patna.</p>
                     </div>
                 </div>
 
